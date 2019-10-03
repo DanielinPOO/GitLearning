@@ -35,3 +35,20 @@ underline
 
 # Imagenes
 ![Ejemplo de imagen](https://i.pinimg.com/originals/2c/b6/70/2cb670b6ddd8922a1c1b2fee4f6f758c.jpg)
+
+# Code Snippets
+```JSON
+[
+    {
+        "title": "apples",
+    },
+    {
+        "title": "more",
+    }
+]
+```
+
+Codigo en JavaScript
+```JavaScript
+Aquí va el código
+```
