@@ -28,3 +28,7 @@ underline
 2. Adiós.
 - Lista desordenada
 - Lista desordenada
+
+# Links
+<a href="google.com">Link tradicional</a>
+- [Esto es un link en markdown](google.com)
