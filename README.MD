@@ -32,3 +32,6 @@ underline
 # Links
 <a href="google.com">Link tradicional</a>
 - [Esto es un link en markdown](google.com)
+
+# Imagenes
+![Ejemplo de imagen](https://i.pinimg.com/originals/2c/b6/70/2cb670b6ddd8922a1c1b2fee4f6f758c.jpg)
