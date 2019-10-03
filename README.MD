@@ -52,3 +52,12 @@ Codigo en JavaScript
 ```JavaScript
 Aquí va el código
 ```
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Daniel | Mínchez | DPI |
+| Daniel | Mínchez | DPI |
+| Daniel | Mínchez | DPI |
+
